@@ -1,0 +1,6 @@
+{
+  "name": "Shortlist — AI Job-Matching Platform",
+  "description": "An intelligent, explainable job-matching platform that pairs candidates with relevant opportunities using role-family ontology, skill weighting, and LLM-assisted analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

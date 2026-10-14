@@ -1,0 +1,172 @@
+[
+  {
+    "id": "cand-01",
+    "name": "Elena Rostova",
+    "email": "elena.design@example.com",
+    "target_role": "Senior Visual & Brand Designer",
+    "role_family": "design",
+    "experience_years": 6,
+    "preferred_locations": ["San Francisco, CA", "Remote"],
+    "preferred_arrangements": ["remote", "hybrid"],
+    "bio": "Senior visual and brand designer with 6 years experience building digital brand systems, vector illustrations, packaging, typography, and design systems in Figma and Adobe Creative Suite.",
+    "skills": [
+      {"name": "Figma", "category": "Design Tools", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Adobe Photoshop", "category": "Design Tools", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Adobe Illustrator", "category": "Design Tools", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Typography", "category": "Design", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "Brand Identity", "category": "Design", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Design Systems", "category": "Design", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "User Interface (UI)", "category": "Design", "proficiency": "Intermediate", "is_current": true, "is_learning_interest": false},
+      {"name": "Python", "category": "Programming", "proficiency": "Beginner", "is_current": false, "is_learning_interest": true}
+    ],
+    "work_experiences": [
+      {
+        "company": "Prism Creative Studio",
+        "title": "Lead Brand Designer",
+        "role_family": "design",
+        "start_date": "2021-03",
+        "end_date": "Present",
+        "is_current": true,
+        "description": "Led visual branding identity, multi-platform design guidelines, iconography, and marketing campaigns.",
+        "accomplishments": "Rebranded flagship digital identity increasing brand recall by 42%. Built unified Figma component library used by 18 cross-functional designers."
+      },
+      {
+        "company": "Vivid Agency",
+        "title": "Graphic Designer",
+        "role_family": "design",
+        "start_date": "2018-06",
+        "end_date": "2021-02",
+        "is_current": false,
+        "description": "Crafted print layouts, corporate identities, brand guidelines, packaging mockups, and social media creative assets.",
+        "accomplishments": "Delivered over 120 client creative packages on deadline with 98% client approval rating."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Fintech Rebrand Concept",
+        "role": "Lead Brand Identity",
+        "is_professional": true,
+        "description": "Complete visual identity and design system overhaul for modern banking mobile app."
+      },
+      {
+        "title": "Intro to Python Automation",
+        "role": "Student Learner",
+        "is_professional": false,
+        "description": "Weekend hobby script to organize vector design files into folders."
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Fine Arts (BFA)",
+        "institution": "California College of the Arts",
+        "field_of_study": "Graphic Design",
+        "graduation_year": 2018
+      }
+    ]
+  },
+  {
+    "id": "cand-02",
+    "name": "Marcus Vance",
+    "email": "marcus.data@example.com",
+    "target_role": "Senior Data Analyst",
+    "role_family": "data",
+    "experience_years": 5,
+    "preferred_locations": ["New York, NY", "Remote"],
+    "preferred_arrangements": ["remote", "hybrid"],
+    "bio": "Quantitative data analyst specializing in SQL pipeline optimization, cohort analysis, Tableau executive dashboards, and predictive churn modeling.",
+    "skills": [
+      {"name": "SQL", "category": "Data", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Python", "category": "Programming", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "Tableau", "category": "BI", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "PostgreSQL", "category": "Data", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "A/B Testing", "category": "Analytics", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "Excel", "category": "Analytics", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Figma", "category": "Design", "proficiency": "Beginner", "is_current": false, "is_learning_interest": true}
+    ],
+    "work_experiences": [
+      {
+        "company": "MetroScale Logistics",
+        "title": "Senior Data Analyst",
+        "role_family": "data",
+        "start_date": "2021-09",
+        "end_date": "Present",
+        "is_current": true,
+        "description": "Architected SQL data marts, company-wide KPI dashboards, and statistical churn prevention models.",
+        "accomplishments": "Optimized delivery route analytics saving $340k annually. Built 14 automated executive Tableau reports replacing manual spreadsheets."
+      },
+      {
+        "company": "FinEdge Analytics",
+        "title": "Data Analyst",
+        "role_family": "data",
+        "start_date": "2019-06",
+        "end_date": "2021-08",
+        "is_current": false,
+        "description": "Analyzed consumer financial transactions, monitored retention metrics, and wrote ETL queries in PostgreSQL.",
+        "accomplishments": "Identified customer drop-off funnel friction leading to 8% conversion lift."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Customer Lifetime Value Predictor",
+        "role": "Lead Analyst",
+        "is_professional": true,
+        "description": "Machine learning model predicting 12-month LTV based on transaction recency and frequency."
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. in Statistics and Economics",
+        "institution": "University of Michigan",
+        "field_of_study": "Statistics",
+        "graduation_year": 2019
+      }
+    ]
+  },
+  {
+    "id": "cand-03",
+    "name": "Devon Hayes",
+    "email": "devon.dev@example.com",
+    "target_role": "Full Stack Software Engineer",
+    "role_family": "engineering",
+    "experience_years": 4,
+    "preferred_locations": ["Austin, TX", "Remote"],
+    "preferred_arrangements": ["remote"],
+    "bio": "Software engineer with 4 years building high-throughput web apps using TypeScript, React, Node.js, REST APIs, and Docker.",
+    "skills": [
+      {"name": "TypeScript", "category": "Engineering", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "React", "category": "Engineering", "proficiency": "Expert", "is_current": true, "is_learning_interest": false},
+      {"name": "Node.js", "category": "Engineering", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "PostgreSQL", "category": "Engineering", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false},
+      {"name": "Docker", "category": "DevOps", "proficiency": "Intermediate", "is_current": true, "is_learning_interest": false},
+      {"name": "Git", "category": "Tools", "proficiency": "Advanced", "is_current": true, "is_learning_interest": false}
+    ],
+    "work_experiences": [
+      {
+        "company": "CloudForge Systems",
+        "title": "Full Stack Engineer",
+        "role_family": "engineering",
+        "start_date": "2022-01",
+        "end_date": "Present",
+        "is_current": true,
+        "description": "Engineered microservices and modern responsive frontends for cloud infrastructure management.",
+        "accomplishments": "Reduced API p95 latency from 450ms to 95ms. Scaled active users by 300% without downtime."
+      }
+    ],
+    "projects": [
+      {
+        "title": "OpenSource Distributed Cache Client",
+        "role": "Author",
+        "is_professional": true,
+        "description": "High performance connection pool manager for Redis cluster."
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. in Computer Science",
+        "institution": "UT Austin",
+        "field_of_study": "Computer Science",
+        "graduation_year": 2020
+      }
+    ]
+  }
+]

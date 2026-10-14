@@ -1,0 +1,178 @@
+[
+  {
+    "id": "bench-01",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-101",
+    "job_title": "Senior Brand & Visual Designer",
+    "job_family": "design",
+    "ground_truth_relevance": 3,
+    "rationale": "Perfect role-family match (design), exact core skill match (Figma, Photoshop, Illustrator, Brand Identity, Typography), 6 years experience matches 5+ years requirement."
+  },
+  {
+    "id": "bench-02",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-102",
+    "job_title": "Product Designer (UI/UX)",
+    "job_family": "design",
+    "ground_truth_relevance": 2,
+    "rationale": "Same role-family (design). Strong design system and Figma proficiency, but lacks deeper user research and interaction design work."
+  },
+  {
+    "id": "bench-03",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-103",
+    "job_title": "Graphic Designer & Content Specialist",
+    "job_family": "design",
+    "ground_truth_relevance": 3,
+    "rationale": "High relevance: identical graphic design domain, Adobe Illustrator/Photoshop, typography, collateral."
+  },
+  {
+    "id": "bench-04",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-104",
+    "job_title": "Operations Manager",
+    "job_family": "operations",
+    "ground_truth_relevance": 0,
+    "rationale": "Completely irrelevant. Graphic designer must NOT be matched to warehouse/fleet operations despite generic team/management words."
+  },
+  {
+    "id": "bench-05",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-105",
+    "job_title": "Senior Business Operations Coordinator",
+    "job_family": "operations",
+    "ground_truth_relevance": 0,
+    "rationale": "Irrelevant role family mismatch (design vs operations/procurement/facilities)."
+  },
+  {
+    "id": "bench-06",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-106",
+    "job_title": "Lead Data Analyst",
+    "job_family": "data",
+    "ground_truth_relevance": 0,
+    "rationale": "Irrelevant. Candidate only has Python as a learning hobby, no SQL/Tableau/data experience."
+  },
+  {
+    "id": "bench-07",
+    "candidate_id": "cand-01",
+    "candidate_name": "Elena Rostova (Graphic/Brand Designer)",
+    "candidate_family": "design",
+    "job_id": "job-110",
+    "job_title": "Growth Marketing Manager",
+    "job_family": "marketing",
+    "ground_truth_relevance": 1,
+    "rationale": "Weak/adjacent. Creative collateral intersects with marketing, but candidate lacks paid ad spend, CAC/LTV, and SEO mastery."
+  },
+  {
+    "id": "bench-08",
+    "candidate_id": "cand-02",
+    "candidate_name": "Marcus Vance (Data Analyst)",
+    "candidate_family": "data",
+    "job_id": "job-106",
+    "job_title": "Lead Data Analyst",
+    "job_family": "data",
+    "ground_truth_relevance": 3,
+    "rationale": "Strong match. Exact domain, SQL, Tableau, Python, A/B Testing, 5 years experience matches requirement."
+  },
+  {
+    "id": "bench-09",
+    "candidate_id": "cand-02",
+    "candidate_name": "Marcus Vance (Data Analyst)",
+    "candidate_family": "data",
+    "job_id": "job-107",
+    "job_title": "Business Intelligence Analyst",
+    "job_family": "data",
+    "ground_truth_relevance": 3,
+    "rationale": "Strong match. Data family, BI reporting, SQL, Tableau, analytics."
+  },
+  {
+    "id": "bench-10",
+    "candidate_id": "cand-02",
+    "candidate_name": "Marcus Vance (Data Analyst)",
+    "candidate_family": "data",
+    "job_id": "job-104",
+    "job_title": "Operations Manager",
+    "job_family": "operations",
+    "ground_truth_relevance": 0,
+    "rationale": "Irrelevant. Candidate has logistics data experience at MetroScale, but is a quantitative analyst, not a warehouse/fleet floor manager."
+  },
+  {
+    "id": "bench-11",
+    "candidate_id": "cand-02",
+    "candidate_name": "Marcus Vance (Data Analyst)",
+    "candidate_family": "data",
+    "job_id": "job-101",
+    "job_title": "Senior Brand & Visual Designer",
+    "job_family": "design",
+    "ground_truth_relevance": 0,
+    "rationale": "Completely irrelevant role mismatch (Data vs Brand Design)."
+  },
+  {
+    "id": "bench-12",
+    "candidate_id": "cand-02",
+    "candidate_name": "Marcus Vance (Data Analyst)",
+    "candidate_family": "data",
+    "job_id": "job-110",
+    "job_title": "Growth Marketing Manager",
+    "job_family": "marketing",
+    "ground_truth_relevance": 1,
+    "rationale": "Weak/adjacent. Analytical and A/B testing skills transfer, but candidate lacks creative campaign and paid media experience."
+  },
+  {
+    "id": "bench-13",
+    "candidate_id": "cand-03",
+    "candidate_name": "Devon Hayes (Full Stack Engineer)",
+    "candidate_family": "engineering",
+    "job_id": "job-108",
+    "job_title": "Senior Full Stack Engineer",
+    "job_family": "engineering",
+    "ground_truth_relevance": 3,
+    "rationale": "Strong match. TypeScript, React, Node.js, PostgreSQL, Docker."
+  },
+  {
+    "id": "bench-14",
+    "candidate_id": "cand-03",
+    "candidate_name": "Devon Hayes (Full Stack Engineer)",
+    "candidate_family": "engineering",
+    "job_id": "job-109",
+    "job_title": "Frontend Engineer",
+    "job_family": "engineering",
+    "ground_truth_relevance": 3,
+    "rationale": "Strong match in engineering domain with React and TypeScript."
+  },
+  {
+    "id": "bench-15",
+    "candidate_id": "cand-03",
+    "candidate_name": "Devon Hayes (Full Stack Engineer)",
+    "candidate_family": "engineering",
+    "job_id": "job-104",
+    "job_title": "Operations Manager",
+    "job_family": "operations",
+    "ground_truth_relevance": 0,
+    "rationale": "Irrelevant role family mismatch (Engineering vs Warehouse Operations)."
+  },
+  {
+    "id": "bench-16",
+    "candidate_id": "cand-03",
+    "candidate_name": "Devon Hayes (Full Stack Engineer)",
+    "candidate_family": "engineering",
+    "job_id": "job-111",
+    "job_title": "Account Executive (Enterprise SaaS)",
+    "job_family": "sales",
+    "ground_truth_relevance": 0,
+    "rationale": "Irrelevant role family mismatch (Engineering vs Enterprise Sales quota)."
+  }
+]
